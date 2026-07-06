@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Grupo-Impulso-Digital/gravity-cli/releases/download/v0.1.0/gravity_0.1.0_windows_amd64.zip",
+            "bin": [
+                "gravity.exe"
+            ],
+            "hash": "179b8a78fb33b7f435d298b59e090218eda9031d955ca520cd6c9f26f4f8529e"
+        },
+        "arm64": {
+            "url": "https://github.com/Grupo-Impulso-Digital/gravity-cli/releases/download/v0.1.0/gravity_0.1.0_windows_arm64.zip",
+            "bin": [
+                "gravity.exe"
+            ],
+            "hash": "9b5efef8a5c2bebee6e2830e933549e73f4cdfe29663ec0fb10949dc7b8fabd6"
+        }
+    },
+    "homepage": "https://github.com/Grupo-Impulso-Digital/gravity-cli",
+    "description": "CI/pipeline companion for the Gravity docs platform"
+}
