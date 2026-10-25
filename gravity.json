@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Grupo-Impulso-Digital/gravity-cli/releases/download/v1.2.0/gravity_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/Grupo-Impulso-Digital/gravity-cli/releases/download/v1.3.0/gravity_1.3.0_windows_amd64.zip",
             "bin": [
                 "gravity.exe"
             ],
-            "hash": "eb49c8d8b7bb2c1e6fc0f41f721beecc7f8b7d85ec6389a9c8883072b64be3b2"
+            "hash": "bc0da61a09b67d2798151601a3146aa8967494755a0cfb98c24cb5404e8a929d"
         },
         "arm64": {
-            "url": "https://github.com/Grupo-Impulso-Digital/gravity-cli/releases/download/v1.2.0/gravity_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/Grupo-Impulso-Digital/gravity-cli/releases/download/v1.3.0/gravity_1.3.0_windows_arm64.zip",
             "bin": [
                 "gravity.exe"
             ],
-            "hash": "ce08da09a1609a35a626c5b6bf180900f9056462569c1381b7fc79bbb7675236"
+            "hash": "dc23a9bf0dcf14d25c20164ea5ac5cb199b41fef13a9ba0afd608b2369791190"
         }
     },
     "homepage": "https://github.com/Grupo-Impulso-Digital/gravity-cli",
